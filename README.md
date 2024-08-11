@@ -8,9 +8,15 @@ type User struct {
     Contact int
 }
 
-var user1 User = User{
+func main () {
+
+var user1 User = User {
     Name:    "Dimas",
     Age:     20,
     Address: "Jakarta",
     Contact: 8171731659,
+}
+
+var techStack = []string{"Go", "Jwt", "Mysql", "MongoDb"}
+
 }
