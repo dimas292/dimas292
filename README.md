@@ -27,4 +27,4 @@ func main() {
 }
 ```
 ```dart
-git graph     live server    go    codeium    </ >
+git graph     live server    go </ >
