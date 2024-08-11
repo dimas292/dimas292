@@ -1,4 +1,4 @@
-```go
+```matlab
 package main
 
 type User struct { 
@@ -17,6 +17,6 @@ var user1 User = User {
     Contact: 8171731659,
 }
 
-var techStack = []string{"Go", "Jwt", "Mysql", "MongoDb"}
+var techStack = []string{ "Go", "Jwt", "Mysql", "MongoDb" }
 
 }
