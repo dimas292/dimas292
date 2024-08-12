@@ -15,7 +15,7 @@ type User struct {
 }
 
 func main() {
-    var user1 User = User{
+    var profile User = User{
         Name:    "Dimas",
         Age:     20,
         Address: "Jakarta",
