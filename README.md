@@ -9,7 +9,6 @@ Welcome to my GitHub profile!
 ## Achievements
 
 - **Kyu/Dan:** 6 Kyu
-- **Total Honor:** 183
 
 ## HackerRank Profile
 
@@ -17,5 +16,4 @@ Welcome to my GitHub profile!
 
 ## Achievements
 
-- **Problem Solving Skills:** newbie
-- **Challenges Completed:** 10+
+- **Problem Solving Skills:** Newbie
