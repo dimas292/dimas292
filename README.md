@@ -1,6 +1,7 @@
-# Halo, i' am [Dimas](https://github.com/dimas292)
 
-Welcome to my GitHub profile!
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&lines=Nickname?+Dimas;Welcome+to+my+GitHub+profile!" alt="Typing Animation" />
+</h1>
 
 ## Codewars Profile
 
