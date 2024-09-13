@@ -6,9 +6,11 @@
 <h1 align="center">Activity</h1>
 <div align="center">
     
-[![Codewars Badge](https://www.codewars.com/users/dimas292/badges/large)](https://www.codewars.com/users/dimas292)
+[![Codewars Badge](https://www.codewars.com/users/dimas292/badges/small)](https://www.codewars.com/users/dimas292)
 
 [![HackerRank Badge](https://img.shields.io/badge/HackerRank-Profile-brightgreen)](https://www.hackerrank.com/profile/dimasixc22)
+
+[![wakatime](https://wakatime.com/badge/github/dimas292/weather-app.svg)](https://wakatime.com/badge/github/dimas292/weather-app)
 </div>
 
 - <picture>
