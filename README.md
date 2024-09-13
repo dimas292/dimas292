@@ -5,7 +5,7 @@
     "name" : "Dimas",
     "coding_activities" : ["codewars", "hackerank", "tlx"],
     "monitor_productivity"  : ["wakatime", "notion"],
-    "code_editor" : ["idx", "vs code", "nvim"],
+    "code_editor" : ["idx", "vs code", "nvim", "zed", "notepad++"],
     "goals" : "Code 10 hrs per day"
 }
 ```
