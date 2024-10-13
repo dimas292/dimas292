@@ -1,12 +1,12 @@
 
 ```json
 {
-    "message" : "hello welcome to my github profile",
-    "name" : "Dimas",
-    "coding_activities" : ["codewars", "hackerank", "tlx"],
-    "monitor_productivity"  : ["wakatime", "notion"],
-    "code_editor" : ["idx", "vs code", "vim", "zed"],
-    "goals" : "Code 10 hrs per day"
+    "message": "Hello! Welcome to my GitHub profile.",
+    "name": "Dimas",
+    "coding_activities": ["Codewars", "HackerRank", "TLX"],
+    "monitoring_tools": ["WakaTime", "Notion"],
+    "code_editors": ["IntelliJ IDEA", "VS Code", "Vim", "Zed"],
+    "goals": "Code for 10 hours per day."
 }
 ```
 <div>
