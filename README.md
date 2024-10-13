@@ -1,13 +1,6 @@
 
-```json
-{
-    "message": "Hello! Welcome to my GitHub profile.",
-    "name": "Dimas",
-    "coding_activities": ["Codewars", "HackerRank", "TLX"],
-    "monitoring_tools": ["WakaTime", "Notion"],
-    "code_editors": ["IntelliJ IDEA", "VS Code", "Vim", "Zed"],
-    "goals": "Code for 10 hours per day."
-}
+```python
+print("towards 1000 hours")
 ```
 <div>
     
