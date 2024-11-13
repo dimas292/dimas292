@@ -1,14 +1,11 @@
+<!--START_SECTION:waka-->
 
-```c++
-#include <iostream>
-
-int main() {
-    std::cout << "Towards 10_000 hours" << std::endl;
-    return 0;
-}
-
+```txt
+C                  518 hrs 12 mins ⣿⣿⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   19.29 %
+Python             470 hrs 47 mins ⣿⣿⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   17.52 %
+Assembly           317 hrs 33 mins ⣿⣿⣿⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.82 %
+Other              307 hrs 30 mins ⣿⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   11.45 %
+C++                251 hrs 4 mins  ⣿⣿⣤⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀   09.35 %
 ```
-    
-[![wakatime](https://wakatime.com/badge/user/f1f9ead8-2cff-4945-b35a-36ca6357aa9c.svg)](https://wakatime.com/@f1f9ead8-2cff-4945-b35a-36ca6357aa9c)
 
-[![Codewars Badge](https://www.codewars.com/users/dimas292/badges/large)](https://www.codewars.com/users/dimas292)
+<!--END_SECTION:waka-->
