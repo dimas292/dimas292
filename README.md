@@ -7,4 +7,3 @@ I'm an informatics student who is learning programming.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dimas292)
 
 
-[![Deploy to Koyeb](https://www.koyeb.com/static/images/deploy/button.svg)](https://app.koyeb.com/deploy?type=docker&image=&instance_type=free)
