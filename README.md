@@ -27,8 +27,8 @@ technical_background:
   "Software Development for Competitive Programming"  
 ]  
 
-currently_learning: ["Advanced DSA in JavaScript & C++"]  
+currently_learning: ["Advanced DSA in Java & C++"]  
 
-2025 Goals: ["Master Competitive Programming", "Build a Dating App for Students", "Develop a News Portal with Golang & React", "Win Gemastik Software Development Division", "Enhance Backend Development Skills in Golang & Node.js", "Learn Java Deeply"]  
+2025 Goals: ["Master Competitive Programming", "Win Gemastik Software Development Division", "Enhance Backend Development Skills in Golang", "Learn Java Deeply"]  
 
 hobbies: ["Gaming", "Coding Challenges", "Tech Research", "Reading", "Exploring New Technologies"]
