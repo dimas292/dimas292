@@ -11,6 +11,7 @@ education:
 
 ```
 
+![CodeWars](https://www.codewars.com/users/dimas292/badges/small)
 
 [![DataCamp](https://img.shields.io/badge/DataCamp-Intro_to_Python-blue)](https://www.datacamp.com/completed/statement-of-accomplishment/course/69a4346baf47137f0c95352e062e0cff742d1bb5)
 
